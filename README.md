@@ -1,0 +1,1 @@
+This project implemented two  transformer-based architectures (BERT, DistilBERT) for AI content detection. We implemented a fine-tuning framework using pre-trained models on a text sample of 29146 dataset collected from AI sources and human authors. 
